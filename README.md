@@ -15,6 +15,7 @@ This is a basic web application for a banking system where users can transfer mo
 - HTML: Used for structuring the web pages and content.
 - CSS: Used for styling and layout of the application.
 - React: Used as the JavaScript framework for building the user interface and managing application state.
+- Supabase: Used as the database for fetching and updating data in the web application.
 
 ## Getting Started
 
@@ -41,5 +42,6 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 ## Acknowledgements
 
 - [React](https://reactjs.org) - JavaScript framework for building user interfaces.
+- [Supabase](https://supabase.com/) - Open-source Firebase alternative for backend and database.
 
 Feel free to customize and enhance the application according to your specific requirements. Enjoy banking system development!
